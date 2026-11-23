@@ -2,7 +2,7 @@ Package: MultiOmicsBridge
 Type: Package
 Title: Integrative Multi-Omics Analysis of Host Transcriptomics and Gut
     Microbiome Data
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: c(
     person("Subhadip", "Jana", role = c("aut", "cre", "fnd"),
            email = "subhadipjana1409@gmail.com",
